@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1072000",
+    "firstName": "Budi",
+    "lastName": "Setiawan",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1172000",
+    "firstName": "John",
+    "lastName": "Doe",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1272000",
+    "firstName": "Samuel",
+    "lastName": "Gunawan",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1372000",
+    "firstName": "Sinta",
+    "lastName": "Kristanti",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1472000",
+    "firstName": "Rei",
+    "lastName": "Sebastian",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1572000",
+    "firstName": "Rei",
+    "lastName": "Gunawan",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1672000",
+    "firstName": "Marco",
+    "lastName": "Polo",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1772000",
+    "firstName": "Ian",
+    "lastName": "Fleming",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1872000",
+    "firstName": "Vincent",
+    "lastName": "Sandy",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  },
+  {
+    "id": "1972000",
+    "firstName": "Arif",
+    "lastName": "Simorangkir",
+    "department": "Teknik Informatika",
+    "address": "Surya Sumantri 1",
+    "phone": "0812212121"
+  }
+]

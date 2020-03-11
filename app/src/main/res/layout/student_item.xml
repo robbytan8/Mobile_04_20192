@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="student"
+            type="com.robby.mobile_04_20192.entity.Student" />
+    </data>
+
+    <RelativeLayout
+        android:id="@+id/rl_row_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/component_margin"
+        android:layout_marginBottom="@dimen/component_margin">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="@{student.id.concat(@string/dash).concat(student.firstName).concat(@string/space).concat(student.lastName)}"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            tools:text="Name" />
+
+        <TextView
+            android:id="@+id/tv_department"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_name"
+            android:layout_alignStart="@+id/tv_name"
+            android:text="@{student.department}"
+            android:textStyle="italic"
+            tools:text="Department" />
+
+    </RelativeLayout>
+</layout>
